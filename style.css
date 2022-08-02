@@ -1,0 +1,39 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1 {
+    font-size: 70px;
+}
+
+h2 {
+    font-size: 50px;
+}
+
+.first-part {
+    display: flex;
+    width: 100%;
+
+}
+
+.fp-text {
+    margin: 4%;
+}
+
+.img-width {
+    width: 50%;
+
+}
+
+.orange-color {
+    color: orange;
+
+}
+
+.hire-button {
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    padding: 10px 30px;
+    border-radius: 5px;
+    color: white;
+}
